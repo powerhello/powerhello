@@ -2,6 +2,9 @@
 
 <!--
 **powerhello/powerhello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/powerhello/powerhello/master/travolta.gif" width="500px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=<powerhello>&theme=<midnight-purple>" />
+
 
 Here are some ideas to get you started:
 
