@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/powerhello/powerhello/master/travolta.gif" width="492px">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=powerhello&theme=midnight-purple" /> -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=powerhello)](https://github.com/powerhello/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=powerhello" />(https://github.com/powerhello/github-readme-stats)
 <!--
 **powerhello/powerhello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
