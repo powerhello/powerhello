@@ -1,7 +1,7 @@
 ### Looks like I'm not writing code 
 
 <img src="https://raw.githubusercontent.com/powerhello/powerhello/master/travolta.gif" width="492px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?theme="midnight-purple"&username=powerhello/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=powerhello&theme="midnight-purple"/>
 <!--
 **powerhello/powerhello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
